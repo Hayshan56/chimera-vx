@@ -57,7 +57,7 @@
 ```bash
 # 1. Clone the repository
 cd ~
-git clone https://github.com/yourusername/chimera-vx
+git clone https://github.com/Hayshan56/chimera-vx
 cd chimera-vx
 
 # 2. Run setup (this will take 30+ minutes)
@@ -71,7 +71,7 @@ For Linux:
 
 ```bash
 # 1. Clone and setup
-git clone https://github.com/yourusername/chimera-vx
+git clone https://github.com/Hayshan56/chimera-vx
 cd chimera-vx
 chmod +x setup.sh
 sudo ./setup.sh
